@@ -1,0 +1,56 @@
+
+
+.container{
+	
+	position: absolute;
+	border: 2px solid green;
+	width: 800px;
+	height: 500px;
+	padding: 10px;
+}
+
+
+.child{
+	width: 100%;
+	border: 2px solid green;
+	padding: 1em;
+} 
+
+
+.type{
+	display: inline-flex;
+	border: 1px dashed grey;
+	border-top: none;
+	color: darkgrey;
+	background: antiquewhite;
+	width: 100%;
+}
+
+.button{
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+
+.lost_pss{
+	border: 1px solid red;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-decoration: none;
+}
+
+.crt_acc{
+	line-height: 1em;
+	margin-top: 1em;
+	margin-bottom: 12px;
+	text-decoration: none;
+}
+
+
+a{
+	text-decoration: none;
+	color: darkgrey;
+}
+
+*/
+
